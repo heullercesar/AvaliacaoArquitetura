@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/09/07 09:02:22.698.pas,C:\Users\heuller.gomes\Documents\Borland Studio Projects\Unit1.pas=C:\Users\heuller.gomes\Documents\AVALIACAO_02\BaixaAPagar.pas</Transaction>
+    <Transaction>2020/09/07 09:02:22.698.dfm,C:\Users\heuller.gomes\Documents\Borland Studio Projects\Unit1.dfm=C:\Users\heuller.gomes\Documents\AVALIACAO_02\BaixaAPagar.dfm</Transaction>
+    <Transaction>2020/09/07 09:02:31.522.bdsproj,C:\Users\heuller.gomes\Documents\Borland Studio Projects\Project1.bdsproj=C:\Users\heuller.gomes\Documents\AVALIACAO_02\Financeiro.bdsproj</Transaction>
+    <Transaction>2020/09/08 12:52:09.568.pas,C:\Users\heuller.gomes\Documents\AVALIACAO_02\Unit1.pas=C:\Users\heuller.gomes\Documents\AVALIACAO_02\uFinanceiro.Controller.BaixaAPagar.pas</Transaction>
+    <Transaction>2020/09/08 12:57:47.099.pas,C:\Users\heuller.gomes\Documents\AVALIACAO_02\Unit1.pas=C:\Users\heuller.gomes\Documents\AVALIACAO_02\uFinanceiro.Controller.FormaPagamento.pas</Transaction>
+    <Transaction>2020/09/08 13:00:28.270.pas,C:\Users\heuller.gomes\Documents\AVALIACAO_02\Unit1.pas=C:\Users\heuller.gomes\Documents\AVALIACAO_02\uFinanceiro.Controller.Interfaces.pas</Transaction>
+    <Transaction>2020/09/08 13:35:29.176.pas,C:\Users\heuller.gomes\Documents\AVALIACAO_02\Unit1.pas=C:\Users\heuller.gomes\Documents\AVALIACAO_02\uFinanceiro.Model.Interfaces.pas</Transaction>
+    <Transaction>2020/09/08 13:35:52.686.pas,C:\Users\heuller.gomes\Documents\AVALIACAO_02\Unit2.pas=C:\Users\heuller.gomes\Documents\AVALIACAO_02\uFinanceiro.Model.BaixaFinanceira.pas</Transaction>
+    <Transaction>2020/09/08 16:19:07.263.pas,C:\Users\heuller.gomes\Documents\AVALIACAO_02\Unit1.pas=C:\Users\heuller.gomes\Documents\AVALIACAO_02\uFinanceiro.Model.BaixaDebitoEmConta.pas</Transaction>
+    <Transaction>2020/09/08 16:39:08.259.pas,C:\Users\heuller.gomes\Documents\AVALIACAO_02\Unit1.pas=C:\Users\heuller.gomes\Documents\AVALIACAO_02\uFinanceiro.Model.BaixaCreditoAVista.pas</Transaction>
+    <Transaction>2020/09/08 17:02:17.947.pas,C:\Users\heuller.gomes\Documents\AVALIACAO_02\Unit1.pas=C:\Users\heuller.gomes\Documents\AVALIACAO_02\uFinanceiro.Model.BaixaCreditoParcelado.pas</Transaction>
+    <Transaction>2020/09/08 17:03:50.510.pas,C:\Users\heuller.gomes\Documents\AVALIACAO_02\Unit1.pas=C:\Users\heuller.gomes\Documents\AVALIACAO_02\uFinanceiro.Model.BaixaBoleto.pas</Transaction>
+    <Transaction>2020/09/08 17:05:06.724.pas,C:\Users\heuller.gomes\Documents\AVALIACAO_02\Unit1.pas=C:\Users\heuller.gomes\Documents\AVALIACAO_02\uFinanceiro.Model.BaixaDuplicata.pas</Transaction>
+    <Transaction>2020/09/08 22:05:44.481.pas,C:\Users\heuller.gomes\Documents\AVALIACAO_02\Unit1.pas=C:\Users\heuller.gomes\Documents\AVALIACAO_02\uFinanceiro.Model.BaixaFinanceira.Factory.dcu.pas</Transaction>
+  </Transactions>
+</BorlandProject>
