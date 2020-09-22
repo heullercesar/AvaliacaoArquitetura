@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/09/03 12:15:19.847.pas,C:\Users\heuller.gomes\Documents\Borland Studio Projects\Unit1.pas=C:\Users\heuller.gomes\Documents\AVALIACAO_01\uFolhaPagamento.View.Impressao.pas</Transaction>
+    <Transaction>2020/09/03 12:15:19.847.dfm,C:\Users\heuller.gomes\Documents\Borland Studio Projects\Unit1.dfm=C:\Users\heuller.gomes\Documents\AVALIACAO_01\uFolhaPagamento.View.Impressao.dfm</Transaction>
+    <Transaction>2020/09/03 12:15:55.786.bdsproj,C:\Users\heuller.gomes\Documents\Borland Studio Projects\Project1.bdsproj=C:\Users\heuller.gomes\Documents\AVALIACAO_01\FolhaPagamento.bdsproj</Transaction>
+    <Transaction>2020/09/05 17:44:40.982.pas,C:\Users\heuller.gomes\Documents\AVALIACAO_01\Unit1.pas=C:\Users\heuller.gomes\Documents\AVALIACAO_01\uFolhaPagamento.Model.LayoutImpressao.pas</Transaction>
+  </Transactions>
+</BorlandProject>
