@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/09/20 15:10:46.192.pas,C:\Users\heuller.gomes\Documents\Borland Studio Projects\Unit1.pas=C:\Users\heuller.gomes\Documents\AVALIACAO_04\SRC\uAPIClientes.View.ManutencaoClientes.pas</Transaction>
+    <Transaction>2020/09/20 15:10:46.192.dfm,C:\Users\heuller.gomes\Documents\Borland Studio Projects\Unit1.dfm=C:\Users\heuller.gomes\Documents\AVALIACAO_04\SRC\uAPIClientes.View.ManutencaoClientes.dfm</Transaction>
+    <Transaction>2020/09/20 15:11:32.545.bdsproj,C:\Users\heuller.gomes\Documents\Borland Studio Projects\Project1.bdsproj=C:\Users\heuller.gomes\Documents\AVALIACAO_04\SRC\uAPIClientes.bdsproj</Transaction>
+  </Transactions>
+</BorlandProject>
